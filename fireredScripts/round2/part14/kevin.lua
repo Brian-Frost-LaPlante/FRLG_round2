@@ -134,7 +134,7 @@ kevin = {
 	{'a',5},
 	{'w',60},
 	{'b',5},
-	{'w',720},
+	{'w',900},
 
 	-- SLOWBRO VS ARCANINE
 	-- TURN 3: SURF + SANDSTORM is GUARANTEED KO, swap in Jolteon
@@ -157,7 +157,7 @@ kevin = {
 	{'a',5},
 	{'w',60},
 	{'b',5},
-	{'w',720},
+	{'w',900},
 	-- JOLTEON VS ALAKAZAM
 	-- TURN 4: X ACC
 	{'walkRight',1},
@@ -187,7 +187,7 @@ kevin = {
 	{'a',5},
 	{'w',60},
 	{'b',5},
-	{'w',720},
+	{'w',900},
 	-- GENGAR VS BLASTOISE
 	-- TURN 6: Heal JOLTEON. a few things can happen after this.
 	{'walkRight',1},
